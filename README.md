@@ -31,3 +31,4 @@ AI ODYSSEY est une expérience web immersive conçue pour éduquer et fasciner. 
 
 Conçu et développé par **Alex Koncept**.
 © 2026 AI ODYSSEY.
+contact@alexkoncept.com
